@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547061035115",
+    "project_id": "wallpaper-luffy-gear",
+    "storage_bucket": "wallpaper-luffy-gear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547061035115:android:ae0e01a5ad34b64026812e",
+        "android_client_info": {
+          "package_name": "com.luffygear5.wallpaper.tiktok.luffygear5.hdwallpaper.luffygearwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547061035115-6udci721rk3hrutv28ngkbbhtuvffisc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgvMu4rV_Uhe83LS7uh4TXBOx7KImRBmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547061035115-6udci721rk3hrutv28ngkbbhtuvffisc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
