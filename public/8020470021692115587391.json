@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138331347460",
+    "project_id": "d-live-wallpaper-parallax",
+    "storage_bucket": "d-live-wallpaper-parallax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138331347460:android:c0d573aba7ba374972f351",
+        "android_client_info": {
+          "package_name": "com.hdwallpapers.aesthetic.wallpaper.parallax.aiwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138331347460-i8k1rlrggtsg9amos38rrl92m4lbc3qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFZYcvas3qbnC6UuDgKlFUL4PulKtPgLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138331347460-i8k1rlrggtsg9amos38rrl92m4lbc3qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
